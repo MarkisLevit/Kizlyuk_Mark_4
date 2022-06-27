@@ -1,0 +1,380 @@
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\SongProject.exe.config
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\SongProject.exe
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\SongProject.pdb
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\obj\Debug\Player.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\obj\Debug\SongProject.Form1.resources
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\obj\Debug\SongProject.Properties.Resources.resources
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\obj\Debug\Player.csproj.CopyComplete
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\obj\Debug\SongProject.exe
+C:\Users\User\Downloads\Telegram Desktop\SongProject\SongProject\obj\Debug\SongProject.pdb
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\SongProject.exe.config
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\SongProject.exe
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\SongProject.pdb
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\SongProject\SongProject\obj\Debug\Player.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SongProject\SongProject\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\SongProject\SongProject\obj\Debug\SongProject.Form1.resources
+C:\Users\User\Desktop\SongProject\SongProject\obj\Debug\SongProject.Properties.Resources.resources
+C:\Users\User\Desktop\SongProject\SongProject\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SongProject\SongProject\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SongProject\SongProject\obj\Debug\Player.csproj.CopyComplete
+C:\Users\User\Desktop\SongProject\SongProject\obj\Debug\SongProject.exe
+C:\Users\User\Desktop\SongProject\SongProject\obj\Debug\SongProject.pdb
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\SongProject.exe.config
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\SongProject.exe
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\SongProject.pdb
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Newtonsoft.Json.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\SQLitePCLRaw.core.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Buffers.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Collections.Immutable.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.ComponentModel.Annotations.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Memory.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\Newtonsoft.Json.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Buffers.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Collections.Immutable.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Memory.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.AssemblyReference.cache
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\obj\Debug\SongProject.Form1.resources
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\obj\Debug\SongProject.Properties.Resources.resources
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.GenerateResource.cache
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.CoreCompileInputs.cache
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.CopyComplete
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\obj\Debug\SongProject.exe
+M:\Learning\Programing-2\SongProject (3)\SongProject\SongProject\obj\Debug\SongProject.pdb
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\SongProject.exe.config
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\SongProject.exe
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\SongProject.pdb
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\obj\Debug\SongProject.Form1.resources
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\obj\Debug\SongProject.Properties.Resources.resources
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\obj\Debug\Player.csproj.CopyComplete
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\obj\Debug\SongProject.exe
+C:\Users\User\Desktop\mmm\SongProject (3)\SongProject\SongProject\obj\Debug\SongProject.pdb
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\SongProject.exe.config
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\SongProject.exe
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\SongProject.pdb
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Newtonsoft.Json.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\SQLitePCLRaw.core.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Buffers.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Collections.Immutable.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.ComponentModel.Annotations.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Memory.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Bcl.HashCode.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Data.Sqlite.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Options.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\Newtonsoft.Json.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Buffers.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Collections.Immutable.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Memory.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Numerics.Vectors.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\obj\Debug\Player.csproj.AssemblyReference.cache
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\obj\Debug\Player.csproj.SuggestedBindingRedirects.cache
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\obj\Debug\SongProject.Form1.resources
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\obj\Debug\SongProject.Properties.Resources.resources
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\obj\Debug\Player.csproj.GenerateResource.cache
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\obj\Debug\Player.csproj.CoreCompileInputs.cache
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\obj\Debug\Player.csproj.CopyComplete
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\obj\Debug\SongProject.exe
+M:\Learning\Programing-2\Кизлюк Марк Андрійович ІС-13\SongProject\SongProject\obj\Debug\SongProject.pdb
